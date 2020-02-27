@@ -2,7 +2,7 @@
 layout: post
 title: "South Los Angeles"
 date: 2020
-categories: ["South LA"]
+categories: ["South_LA"]
 author: "Jack Tieszen"
 lat: 34.007353
 lng: -118.295829 

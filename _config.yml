@@ -6,7 +6,7 @@ email: dchildress@library.ucla.edu
 description:
 baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-github_repo: #https://github.com/kirschbombe/flaneur
+github_repo: https://github.com/kirschbombe/flaneur
 copyright_statement: © 2017 Dawn Childress. CC BY-NC-SA 4.0.
 
 # build settings
@@ -19,7 +19,7 @@ accent_font: Della Respira  # Gogle Fonts import link is in head.html. You can s
 
 # --SOCIAL--
 twitter_username: kirschbombe
-github_username:  
+github_username: kirschbombe 
 
 # --MAP SETTINGS--
 map-tileset: 'https://api.mapbox.com/styles/v1/jrtieszen/ck6v3tu7s07bo1io0wkhmvfuz/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoianJ0aWVzemVuIiwiYSI6ImNrNnYycThuazAxaXkzbm44NDk1YnZ2N2EifQ.IX9GMHEzrv74T-mxt3dVhg'

@@ -2,5 +2,5 @@
 layout: Map
 title: Plain Map
 ---
-<p><iframe allowfullscreen="" frameborder="0" height="520" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://cartorutkowski.carto.com/builder/a73aca6a-3ead-456e-b3e1-ede980355ca2/embed" webkitallowfullscreen="" width="100%"></iframe></p>
+<p><iframe allowfullscreen="" frameborder="0" height="520" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://api.mapbox.com/styles/v1/jrtieszen/ck7gj3i5r1en71jp85fp7fmy7.html?fresh=true&title=view&access_token=pk.eyJ1IjoianJ0aWVzemVuIiwiYSI6ImNrNnYycThuazAxaXkzbm44NDk1YnZ2N2EifQ.IX9GMHEzrv74T-mxt3dVhg" webkitallowfullscreen="" width="100%"></iframe></p>
 

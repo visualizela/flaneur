@@ -1,6 +1,7 @@
 ---
 layout: Map
 title: Plain Map
+permalink: /Plain Map/
 ---
 #### Modern day map of Los Angeles.
 

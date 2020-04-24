@@ -56,3 +56,5 @@ menu-opacity: '.95'
 
 #pages to exclude in menu
 exclude_pages: [ "index.html", 'home.md']
+
+theme: jekyll-theme-slate

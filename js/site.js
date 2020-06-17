@@ -81,6 +81,6 @@ function new_map(site_grouping){
   map.remove();
 
   $('#choose').val(markergrouping);
-  map = L.map('map' , {scrollWheelZoom: false}).setView([0, 0], 1);
+  map = L.map('map' , {scrollWheelZoom: true}).setView([0, 0], 1);
   items = makeMap(markergrouping, map);
 }

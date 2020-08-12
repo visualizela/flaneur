@@ -2,12 +2,12 @@
 
 # --SITE SETTINGS--
 title: South Los Angeles 1991 Planning Map.
-email: dchildress@library.ucla.edu
-description:
-baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
+email: arutkows@usc.edu
+description: This site provides access to Los Angeles planning documents from 1991. 
+baseurl: "/planningdocs" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-github_repo: https://github.com/kirschbombe/flaneur
-copyright_statement: © 2017 Dawn Childress. CC BY-NC-SA 4.0.
+github_repo: https://github.com/visualizela/planningdocs
+copyright_statement: © 2020 Andy Rutkowski, Jack Tieszen. CC BY-NC-SA 4.0.
 
 # build settings
 markdown: kramdown
@@ -18,8 +18,7 @@ accent_color: rgba(18, 127, 157, 1)  # accent color can be any css accepted valu
 accent_font: Della Respira  # Gogle Fonts import link is in head.html. You can specify the accent font here and it will add it to the main.css
 
 # --SOCIAL--
-twitter_username: kirschbombe
-github_username: kirschbombe 
+twitter_username:
 
 # --MAP SETTINGS--
 map-tileset: 'https://api.mapbox.com/styles/v1/jrtieszen/ck6v3tu7s07bo1io0wkhmvfuz/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoianJ0aWVzemVuIiwiYSI6ImNrNnYycThuazAxaXkzbm44NDk1YnZ2N2EifQ.IX9GMHEzrv74T-mxt3dVhg'

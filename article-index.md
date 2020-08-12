@@ -1,4 +1,4 @@
 ---
 layout: article-index
-title: Neighborhoods
+title: Community Plans
 ---

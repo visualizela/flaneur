@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "South Los Angeles"
+title: "South Central Los Angeles"
 date: 2020-02-28
-categories: ["South LA"]
+categories: ["South Central LA"]
 author: "Jack Tieszen"
 lat: 33.999678
 lng: -118.300233
 runningtitle: "Running title here"
-desc: "South LA"
+desc: "South Central LA"
 ---
 
 ![Key](images/Key.jpg)
@@ -16,7 +16,7 @@ Map Key: Click to Expand.
 Below are all of the digitized files for the government plans.
    {:.caption}   
 
-[Click this link to download the full document.](https://github.com/visualizela/flaneur/raw/master/images/South_LA.pdf)
+[Click this link to download the full document.](https://github.com/visualizela/planningdocs/raw/master/images/South_LA.pdf)
 
 ![SLA1](images/South_LA_Page_01.jpg)
    {:.image}
